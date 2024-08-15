@@ -3,7 +3,7 @@
 ## Explanation
 
 It uses puppeteer to create a headless browser and log you in via MyGann. It saves the data in `user_data/` and the cookies in `cookies.json` so that it can get the token faster. As far as I know, this is the fastest method right now to get an auth token since they disabled a fast login. If someone finds a better method, let me know, but I think this is the best for now (or at least what I came up with that works).
-> [!WARNING]
+> [!CAUTION]
 > ALL OF THIS MAY STOP WORKING DEPENDING ON HOW BLACKBAUD CHANCES THE AUTH PROCESS. IT WORKS AS OF 2023 + 2024
 
 ## How to use
