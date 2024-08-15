@@ -6,7 +6,7 @@ It uses puppeteer to create a headless browser and log you in via MyGann. It sav
 > [!CAUTION]
 > ALL OF THIS MAY STOP WORKING DEPENDING ON HOW BLACKBAUD CHANCES THE AUTH PROCESS. IT WORKS AS OF 2023 + 2024
 
-## How to use
+## How to Use
 
 - Create the same file pattern with `cookies.json`, `user_data/`, and the `authTokenGetter.js` of your choice
 - One is built for CommonJS and one for ES. I don't really know the difference but one uses `require()` and one `import`
